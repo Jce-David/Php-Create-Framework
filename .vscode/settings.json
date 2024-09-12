@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 13,
+    "editor.lineHeight": 1.4,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Fira Code', 'Cascadia Mono', monospace",
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#ffffff" // Cambia el color a tu preferencia
+    }
+    
+}
